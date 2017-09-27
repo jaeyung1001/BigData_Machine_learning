@@ -2,7 +2,7 @@
 import sys, math
 import numpy as np
 import matplotlib
-matplotlib.use('TKAgg')
+matplotlib.use('TKAgg') #MAC에서 그래프 잘보이게하는 명령어
 import matplotlib.pyplot as plt
 import pandas as pd
 
