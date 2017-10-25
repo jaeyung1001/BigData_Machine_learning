@@ -13,5 +13,7 @@
 - hw4
   - Boston Housing Data
   - K-means iris
+- hw5
+  - Euclidean distances
 ## 빅데이터 자료URL
 - https://archive.ics.uci.edu/ml/datasets.html
