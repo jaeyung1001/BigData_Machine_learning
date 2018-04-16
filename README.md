@@ -1,7 +1,7 @@
 # Study_machine
 머신러닝공부
 
-## 빅데이터통계학 수업 과제정리
+## 빅데이터통계학 정리
 - hw1
   - Titanic Data
 - hw2
